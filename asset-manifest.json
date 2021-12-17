@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-useeffect-github/static/css/main.e9ac5be0.chunk.css",
+    "main.js": "/react-useeffect-github/static/js/main.651bdc64.chunk.js",
+    "main.js.map": "/react-useeffect-github/static/js/main.651bdc64.chunk.js.map",
+    "runtime-main.js": "/react-useeffect-github/static/js/runtime-main.fdedea57.js",
+    "runtime-main.js.map": "/react-useeffect-github/static/js/runtime-main.fdedea57.js.map",
+    "static/js/2.cd8bf2b7.chunk.js": "/react-useeffect-github/static/js/2.cd8bf2b7.chunk.js",
+    "static/js/2.cd8bf2b7.chunk.js.map": "/react-useeffect-github/static/js/2.cd8bf2b7.chunk.js.map",
+    "index.html": "/react-useeffect-github/index.html",
+    "static/css/main.e9ac5be0.chunk.css.map": "/react-useeffect-github/static/css/main.e9ac5be0.chunk.css.map",
+    "static/js/2.cd8bf2b7.chunk.js.LICENSE.txt": "/react-useeffect-github/static/js/2.cd8bf2b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdedea57.js",
+    "static/js/2.cd8bf2b7.chunk.js",
+    "static/css/main.e9ac5be0.chunk.css",
+    "static/js/main.651bdc64.chunk.js"
+  ]
+}
